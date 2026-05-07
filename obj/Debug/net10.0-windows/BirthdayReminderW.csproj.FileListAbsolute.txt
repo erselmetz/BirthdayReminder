@@ -1,0 +1,16 @@
+C:\Users\Yor\source\repos\BirthdayReminderW\bin\Debug\net10.0-windows\BirthdayReminderW.exe
+C:\Users\Yor\source\repos\BirthdayReminderW\bin\Debug\net10.0-windows\BirthdayReminderW.deps.json
+C:\Users\Yor\source\repos\BirthdayReminderW\bin\Debug\net10.0-windows\BirthdayReminderW.runtimeconfig.json
+C:\Users\Yor\source\repos\BirthdayReminderW\bin\Debug\net10.0-windows\BirthdayReminderW.dll
+C:\Users\Yor\source\repos\BirthdayReminderW\bin\Debug\net10.0-windows\BirthdayReminderW.pdb
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.Form1.resources
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.csproj.GenerateResource.cache
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.AssemblyInfoInputs.cache
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.AssemblyInfo.cs
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.csproj.CoreCompileInputs.cache
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.dll
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\refint\BirthdayReminderW.dll
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.pdb
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\BirthdayReminderW.genruntimeconfig.cache
+C:\Users\Yor\source\repos\BirthdayReminderW\obj\Debug\net10.0-windows\ref\BirthdayReminderW.dll
