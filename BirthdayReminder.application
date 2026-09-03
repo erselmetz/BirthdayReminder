@@ -8,20 +8,20 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://erselmetz.github.io/BirthdayReminder/BirthdayReminder.application" />
+    <deploymentProvider codebase="https://github.com/erselmetz/BirthdayReminder/BirthdayReminder.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\BirthdayReminder_1_0_0_0\BirthdayReminder.dll.manifest" size="113977">
+    <dependentAssembly dependencyType="install" codebase="Application Files\BirthdayReminder_1_0_0_0\BirthdayReminder.dll.manifest" size="113572">
       <assemblyIdentity name="BirthdayReminder.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2Q89b7IsRDLmbL79P6HQolP0CGT1PoJ3jje6hGihTKw=</dsig:DigestValue>
+        <dsig:DigestValue>Pe3+rPyZlnzrHUwQYkreDAJNiob9AhdcApMn3Rndk48=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
