@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://github.com/erselmetz/BirthdayReminder/BirthdayReminder.application" />
+    <deploymentProvider codebase="https://erselmetz.github.io/BirthdayReminder/BirthdayReminder.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
